@@ -1,9 +1,9 @@
-img{
+.moviePic{
 	height: 100px;
 	width: 100px;
 	opacity: 0.5;
 }
-.para{
+.movieDetail{
 	position: absolute;
   top: 30%;
   width:  200px;
