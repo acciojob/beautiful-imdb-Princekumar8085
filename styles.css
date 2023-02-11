@@ -1,2 +1,13 @@
-
+img{
+	height: 100px;
+	width: 100px;
+	opacity: 0.5;
+}
+.para{
+	position: absolute;
+  top: 30%;
+  width:  200px;
+	text-align: start;
+	font-size: 10;
+}
 /* Your CSS Code here. */
